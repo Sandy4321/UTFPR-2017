@@ -1,7 +1,7 @@
-# UM ESTUDO EXPLORATÓRIO SOBRE INDICADORES DE RECEPTIVIDADE EM PROJETOS DE SOFTWARE LIVRE
+# Um estudo exploroatório sobre indicadores de receptividade em projetjos de software livre
 
-## Contatos
-Luiz Felipe Fronchetti Dias [Student] -- luizdias@alunos.utfpr.edu.br <br>
-Igor Scaliante Wiese [Advisor] -- igor@utfpr.edu.br <br>
-Igor Steinmacher [Advisor] -- igorfs@utfpr.edu.br <br>
-Gustavo Pinto [Advisor] -- ghlp@cin.ufpe.br
+## Autores
+Luiz Felipe Fronchetti Dias [Aluno] -- luizdias@alunos.utfpr.edu.br <br>
+Igor Scaliante Wiese [Orientador] -- igor@utfpr.edu.br <br>
+Igor Steinmacher [Orientador] -- igorfs@utfpr.edu.br <br>
+Gustavo Pinto [Orientador] -- ghlp@cin.ufpe.br
