@@ -1,4 +1,4 @@
-# Um estudo exploroatório sobre indicadores de receptividade em projetjos de software livre
+# Um estudo exploratório sobre indicadores de receptividade em projetjos de software livre
 
 ## Autores
 Luiz Felipe Fronchetti Dias [Aluno] -- luizdias@alunos.utfpr.edu.br <br>
